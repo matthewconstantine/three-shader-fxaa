@@ -6,11 +6,6 @@
   "license": "MIT",
   "author": "Matt DesLauriers <dave.des@gmail.com>",
   "dependencies": {},
-  "standard": {
-    "globals": [
-      "THREE"
-    ]
-  },
   "devDependencies": {
     "glsl-fxaa": "^3.0.0",
     "glslify": "^4.0.0",
